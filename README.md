@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vertrex
+- 👋 Hi, I’m Vertrex0
 - 👀 I’m interested in Web Servers, Linux, long hikes, evergreen forests, biking, and Christianity.
 - 🌱 I’m currently learning getting more advanced with Python3 & Bash
 - 💞️ I’m looking to collaborate on making education easier for professors & teachers, Christian software, Linux Additionally making software for physical infrastructure protection.
